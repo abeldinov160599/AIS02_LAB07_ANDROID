@@ -4,4 +4,4 @@
 | ------ | ------ | ------ | ------ | ------ |
 | Абельдинов И.С. | 2 | ВТиП-302 | Разработка мобильного приложения | Тема 7 - Технология JSON для работы с HTTP |
 
-![Screenshot_20221203_000319](https://user-images.githubusercontent.com/71010650/205357424-0956106e-b7ad-43ac-8af9-b0a816fb861e.png)
+![Screenshot_20221203_000319](https://user-images.githubusercontent.com/71010650/205358616-2b593b2e-9613-4dfa-9196-bee17ad4d4cf.png)
