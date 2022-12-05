@@ -78,7 +78,7 @@ public class MainActivity extends AppCompatActivity {
                     textView.append("Обновление программы Orix2022: " + "\n");
                     textView.append("Имя автора программы: " + name + "\n");
                     textView.append("Электронная почта: " + email + "\n");
-                    textView.append("Дата обновленния: " + date + "\n");
+                    textView.append("Дата обновления: " + date + "\n");
                     textView.append("Сообщение об обновлении: " + message + "\n\n");
 
                 }
